@@ -1,4 +1,4 @@
-# Laboratório de Instalação do Elasticsearch 8 no Ubuntu Server
+# Laboratório de Instalação do Elasticsearch 8 no Ubuntu Server 24.04
 
 Este laboratório guia o processo de instalação e configuração do Elasticsearch 8 em uma máquina virtual Ubuntu Server, utilizando o VirtualBox. O objetivo é aprender mais sobre a ferramenta de maneira prática e no processo criar um ambiente de busca e análise de dados eficiente e totalmente funcional. Uma instalação via Docker também é possível, mas não será abordada.
 
