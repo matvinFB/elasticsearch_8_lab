@@ -2,6 +2,13 @@
 
 Este laboratório guia o processo de instalação e configuração do Elasticsearch 8 em uma máquina virtual Ubuntu Server, utilizando o VirtualBox. O objetivo é aprender mais sobre a ferramenta de maneira prática e no processo criar um ambiente de busca e análise de dados eficiente e totalmente funcional. Uma instalação via Docker também é possível, mas não será abordada.
 
+Esse laboratório se baseia fundamentalmente nestas duas fontes:
+
+- [Elasticsearch 8 and the Elastic Stack: In Depth and Hands On](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack)
+- [How To Install and Configure Elasticsearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-22-04)
+
+Entretanto varios outros sites foram consultados e em sua maioria são citados dentro do próprio texto.
+
 ## Pré-requisitos
 
 Antes de começar, alguns itens são fundamentais:
