@@ -26,7 +26,7 @@ Se você tiver sugestões, correções ou melhorias para os laboratórios, fique
 
 ## Contato
 
-Para mais informações ou dúvidas, entre em contato comigo através do [meu perfil no GitHub](https://github.com/seu-usuario).
+Para mais informações ou dúvidas, entre em contato comigo através do [meu perfil no GitHub](https://github.com/matvinFB).
 
 **Explore os laboratórios e aproveite a jornada!**
 
