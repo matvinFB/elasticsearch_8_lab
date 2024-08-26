@@ -4,6 +4,7 @@ Este laboratório orienta como criar e fazer o mapping de um índice, criar, alt
 
 Este laboratório se baseia fundamentalmente nas seguintes fontes:
 
+- [Documentção Oficial](https://www.elastic.co/docs)
 - [Elasticsearch 8 and the Elastic Stack: In Depth and Hands On](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack)
 
 ## Pré-requisitos
