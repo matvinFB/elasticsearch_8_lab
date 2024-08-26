@@ -96,6 +96,8 @@ Antes de começar, saiba que existe outra forma de obter sua máquina virtual se
     <img src="img/seed_hosts_settup.png" alt="Configurando os nós de descoberta" width="600"/>
     </center>
 
+    - Remova o comentário do campo `cluster.initial_master_nodes` e garanta que ele esteja com o nome que você deu ao nó, ou com o nome do nó que deve ser o mestre em caso de clusters. Verifique também se o campo não está repetido em outra parte do arquivo (isso aconteceu durante a criação do Lab 2). 
+     
     - O último passo vem acompanhado de um **ALERTA**: essa configuração não é válida para produção e **NÃO** deve ser repetida fora de um ambiente de desenvolvimento ou teste. Iremos alterar as configurações de segurança, desativando-as. A segurança do Elasticsearch realiza controle de acesso, criptografia da comunicação, logs de auditoria e gerenciamento de usuários. Em uma futura versão, este laboratório será atualizado para habilitar essa opção. Segue a alteração na linha contendo `xpack.security.enabled`:
 
     <center>
